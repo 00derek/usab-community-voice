@@ -20,6 +20,9 @@ USAB does not publish confirmed event dates and venue details far enough in adva
 ### [Junior Event and Venue Selection Transparency](issues/issue-junior-event-venue-selection-transparency.md)
 With 5–6 clubs bidding for JSE hosting rights and no published selection criteria, the community has no visibility into how hosting decisions are made for JSE or Junior Nationals. Clubs that lose bids receive no feedback, and the perception of opaque decision-making erodes trust regardless of whether decisions themselves are sound. Options include publishing a formal bid scoring rubric, establishing a selection committee with community representation, and requiring post-decision rationale statements.
 
+### [USAB Official Website](issues/issue-usab-official-website.md)
+The USAB website lacks dedicated pages for community awards (Debbie Brown Award, annual athlete award), historical Pan Am Junior team rosters, and links to Pan American Championships. These gaps miss opportunities to celebrate achievements, clarify nomination processes before Junior Nationals, support college recruitment, and preserve the sport's institutional memory. Options include creating award pages with clear nomination timelines, publishing yearly "Team USA Junior" rosters, and adding Pan Am Championships links.
+
 ---
 
 ## Player Welfare & Competition
