@@ -50,4 +50,4 @@ The financial model underpinning USAB-sanctioned badminton is under strain acros
 
 ## Contributing
 
-These issues are living documents. If you have additional context, data, or proposed options to contribute, please open a pull request or raise a discussion.
+These issues are living documents. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add a new issue, improve an existing one, or start a discussion.
