@@ -40,3 +40,14 @@ This issue requires structured input from multiple stakeholder groups — player
 - Has USAB modeled what field sizes at ORC would look like if ranking point incentives were rebalanced with OLC/CRC?
 - Which stakeholder groups — host clubs, officials associations, player representatives, regional directors — need to be formally consulted before any format change is adopted, and is there a process for doing so?
 - Could a phased approach work — e.g., points rebalancing first to reduce demand organically, followed by format review once new participation levels are observed?
+
+
+## Status
+
+**Current status**: `open`
+**Last updated**: —
+**Discussion**: [Community Google Doc](https://docs.google.com/document/d/1Q9dbMKVDW04IIXvKZJ3dwQBaly9FL_HKpGPR2anD4Pc/edit)
+
+## USAB Response
+
+*No response yet. USAB is reviewing community input.*

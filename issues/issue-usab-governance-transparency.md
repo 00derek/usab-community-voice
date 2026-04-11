@@ -36,3 +36,14 @@ Taken together, these gaps create a governance environment where decisions appea
 - Has USAB conducted any prior town halls or community forums? If so, what was the format and what did or did not work?
 - Are there USAB bylaws or governing documents that define transparency and communication obligations, and are they publicly available?
 - What is the minimum viable first step — is there appetite within the board for any of these options, and who would champion implementation?
+
+
+## Status
+
+**Current status**: `open`
+**Last updated**: —
+**Discussion**: [Community Google Doc](https://docs.google.com/document/d/1_ZCHLGkfbJITl-aJPUz15d2GSCSVqCf48aCwNTmmkE4/edit)
+
+## USAB Response
+
+*No response yet. USAB is reviewing community input.*

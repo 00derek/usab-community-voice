@@ -38,3 +38,14 @@ Beyond player welfare, there are organizational risks: without a documented medi
 - Is there currently a formal return-to-play protocol that tournament referees or officials follow when a player is injured on court?
 - Have there been specific incidents at past JSE or national events where the absence of medical staff resulted in poor outcomes? Documenting these would strengthen the case for a formal policy.
 - Would this requirement affect the pool of clubs willing and able to host national events, and how should that tradeoff be managed?
+
+
+## Status
+
+**Current status**: `open`
+**Last updated**: —
+**Discussion**: [Community Google Doc](https://docs.google.com/document/d/122yIEOSSQB-3sKceMZzbMPWggJuflg4fYLezL4ELL_s/edit)
+
+## USAB Response
+
+*No response yet. USAB is reviewing community input.*

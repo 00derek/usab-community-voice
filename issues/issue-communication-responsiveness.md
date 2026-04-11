@@ -37,3 +37,14 @@ Critical information (rule changes, schedule updates, policy decisions) frequent
 - How is information currently disseminated (email lists, website announcements, social media)? Are these channels consistently updated?
 - Are there USAB members or clubs who have escalated the responsiveness issue formally, and how was it handled?
 - What is the minimum viable intervention — is a dedicated email alias with an auto-acknowledgment and a committed response SLA achievable in the short term while larger structural changes are planned?
+
+
+## Status
+
+**Current status**: `open`
+**Last updated**: —
+**Discussion**: [Community Google Doc](https://docs.google.com/document/d/1VmD8uvijvvdS3PJpQ0bfeq2961UWO9NQk_aJlfoHjGQ/edit)
+
+## USAB Response
+
+*No response yet. USAB is reviewing community input.*

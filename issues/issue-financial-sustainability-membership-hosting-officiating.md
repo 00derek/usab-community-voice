@@ -44,3 +44,14 @@ Comparable national sports federations generate meaningful revenue through corpo
 - Is the 30% revenue cut rate uniform across all event types and sizes, or does it vary? When was it last reviewed?
 - What is the total annual membership fee burden on a family with two junior players, including all required certifications and event fees?
 - Is there a USAB staff role or committee currently responsible for sponsorship and revenue development? If not, who would own this?
+
+
+## Status
+
+**Current status**: `open`
+**Last updated**: —
+**Discussion**: [Community Google Doc](https://docs.google.com/document/d/1T-fx6_wfKiy3QO3k9zc-DPB8rMlZwqDDTSluB4rSmdg/edit)
+
+## USAB Response
+
+*No response yet. USAB is reviewing community input.*

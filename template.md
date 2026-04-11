@@ -25,3 +25,14 @@ Questions that need answers before this issue can be fully evaluated or resolved
 
 - Question 1
 - Question 2
+
+
+## Status
+
+**Current status**: `open`
+**Last updated**: —
+**Discussion**: [Community Google Doc](REPLACE_WITH_GOOGLE_DOC_URL)
+
+## USAB Response
+
+*No response yet. USAB is reviewing community input.*

@@ -37,3 +37,14 @@ Beyond the specific rule, this incident highlights a governance concern: a polic
 - How do other national badminton federations (e.g., Badminton Canada, USA Pickleball, BWF member associations) handle retirement policies at selection events?
 - Is there a distinction in how the rule applies to juniors vs. adults, and if not, should there be given the developmental context of junior competition?
 - Who has the authority to suspend or modify the rule — the High Performance Committee alone, or does it require broader board approval?
+
+
+## Status
+
+**Current status**: `open`
+**Last updated**: —
+**Discussion**: [Community Google Doc](https://docs.google.com/document/d/1RhP9-uoNEG8rzLTal3jTrrCceRfeW4i2woxMp0PBMKA/edit)
+
+## USAB Response
+
+*No response yet. USAB is reviewing community input.*

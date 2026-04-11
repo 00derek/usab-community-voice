@@ -38,3 +38,14 @@ The junior community has raised this concern repeatedly. Continued non-delivery 
 - Has USAB internally documented an SLA or accountability mechanism for the monthly commitment? If so, what has been the response when it is missed?
 - Are there known technical or access barriers preventing automation of result ingestion?
 - How many formal complaints or community inquiries about ranking delays has USAB received, and what responses were given?
+
+
+## Status
+
+**Current status**: `open`
+**Last updated**: —
+**Discussion**: [Community Google Doc](https://docs.google.com/document/d/1dDFTYISZ9frPezJcjC7-ltnvAjgCo34JHcsptNeZqkE/edit)
+
+## USAB Response
+
+*No response yet. USAB is reviewing community input.*

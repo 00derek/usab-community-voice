@@ -51,3 +51,14 @@ For players with international competitive experience, BWF ranking points repres
 - Who within USAB — High Performance Committee, board, or another body — has authority to change the selection format and ranking points structure, and what approval process is required?
 - Are there precedents from other national federations (Badminton Canada, Badminton England, etc.) for composite selection scoring or hybrid ranking systems that USAB could learn from?
 - If a capped field is adopted for JSE, ranking points become the primary qualification gate — meaning players must attend as many sanctioned events as possible to accumulate sufficient points to earn entry. This shifts the burden upstream: participation becomes more travel-intensive and costly for families, and players in regions with fewer sanctioned events are structurally disadvantaged before the selection event even begins. Any cap-based model must address how the points threshold is set, whether regional equity is built in, and whether the travel burden of points accumulation is an acceptable tradeoff for a fairer selection event format.
+
+
+## Status
+
+**Current status**: `open`
+**Last updated**: —
+**Discussion**: [Community Google Doc](https://docs.google.com/document/d/1M5L5hzmFEwOOWBIPppjBtdk4iO41uRgOm6LlFETHjBQ/edit)
+
+## USAB Response
+
+*No response yet. USAB is reviewing community input.*

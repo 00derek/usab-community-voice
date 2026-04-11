@@ -33,3 +33,14 @@ This has been a long-standing community grievance. The lack of transparency crea
 - Is there a written bid submission format, or are bids submitted informally?
 - How far in advance are venues selected, and when are decisions communicated to the community?
 - Has the governing body received formal complaints or requests about this issue, and how were they addressed?
+
+
+## Status
+
+**Current status**: `open`
+**Last updated**: —
+**Discussion**: [Community Google Doc](https://docs.google.com/document/d/14dky7IvBLBQzmx3mNXjGdlx7Jc5F4g0tqHJ8IQVqMQ8/edit)
+
+## USAB Response
+
+*No response yet. USAB is reviewing community input.*

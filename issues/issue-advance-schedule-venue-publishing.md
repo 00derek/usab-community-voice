@@ -37,3 +37,14 @@ Comparable youth sports organizations (USAV volleyball, USTA junior tennis, US Y
 - What comparable national governing bodies publish multi-month advance season calendars, and what processes enable them to do so?
 - Has USAB received formal feedback from families quantifying the impact of late announcements — e.g., cost estimates, withdrawal rates due to scheduling conflicts?
 - Would a two-phase announcement model (dates before venue) be acceptable to families, or is the city/region information essential to the first announcement?
+
+
+## Status
+
+**Current status**: `open`
+**Last updated**: —
+**Discussion**: [Community Google Doc](https://docs.google.com/document/d/1B0S4IIQoBJLAeOVdmgzrtZPJ8IS-yeVMjY5EYhrdhfw/edit)
+
+## USAB Response
+
+*No response yet. USAB is reviewing community input.*
