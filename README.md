@@ -11,9 +11,9 @@ Issues are organized into three areas: **Governance & Transparency**, **Player W
 This project uses a two-layer system:
 
 - **GitHub** (this repo) — the canonical, version-controlled record of each issue
-- **Google Form** — the easiest way for community members to submit feedback on any issue
+- **Google Form** — [submit feedback](https://docs.google.com/forms/d/e/1FAIpQLScrp_rzg7bhIJdpnF74Te7dnxWacTYk8plZI045A96DvILNgQ/viewform) on any issue — no GitHub account needed
 
-To leave feedback on a specific issue, open the issue file and click the **Submit feedback** link in the Status section. You do not need a GitHub account. Submissions are reviewed by maintainers, grouped by theme, and incorporated into the issue write-up periodically.
+Submissions are reviewed by maintainers, grouped by theme, and incorporated into the issue write-up periodically.
 
 ---
 
