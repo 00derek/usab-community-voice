@@ -4,7 +4,7 @@ The selection process for Junior Selection Events (JSE) and Junior National venu
 **Tags**: `transparency` `governance` `junior` `selection-process` `community`
 
 ## Context
-Multiple clubs (reportedly 5–6) submit bids for JSE hosting rights, yet no formal criteria or evaluation rubric has been publicly shared. The community does not know who reviews bids, what factors are weighted, or which stakeholder groups — if any — are consulted before a decision is made. The same opacity applies to Junior Nationals venue selection.
+Community understanding is that multiple clubs, often around 5–6 in a given cycle, submit bids for JSE hosting rights, yet no formal criteria or evaluation rubric has been publicly shared. The community does not know who reviews bids, what factors are weighted, or which stakeholder groups — if any — are consulted before a decision is made. The same lack of visibility appears to apply to Junior Nationals venue selection.
 
 This has been a long-standing community grievance. The lack of transparency creates several downstream problems:
 - Clubs that repeatedly lose bids have no feedback loop to improve future submissions

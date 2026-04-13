@@ -26,7 +26,7 @@ The junior community has raised this concern repeatedly. Continued non-delivery 
 - **Option C — Assign dedicated ownership with a published update calendar**: Designate a specific role (staff or volunteer lead) responsible for ranking updates, publish a calendar of update dates for the year, and create a visible accountability mechanism — e.g., a status page showing last updated date and next scheduled date. Families should never have to guess when rankings were last refreshed.
 
 
-- **Option D — Implement a fully automated pipeline with guaranteed SLA**: Create an automated process with a guaranteed maximum turnaround time after a tournament concludes. With today's technology, automatically ingesting results and updating rankings without manual intervention is highly feasible and should be the standard.
+- **Option D — Implement a fully automated pipeline with guaranteed SLA**: Create an automated process with a guaranteed maximum turnaround time after a tournament concludes. If the underlying event-result systems support it, automated ingestion and publication should be a realistic medium-term goal.
 
 ## Open Questions
 
