@@ -1,5 +1,5 @@
 ## Issue
-A clear, one or two sentence statement of the problem. Focus on what needs to be resolved, not who is at fault.
+A clear, one or two sentence statement of the problem. Focus on what needs to be resolved, not who is at fault. Aim for a constructive issue memo tone rather than an advocacy tone.
 
 **Tags**: `tag1` `tag2`
 
