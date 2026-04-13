@@ -39,7 +39,7 @@ This has been a long-standing community grievance. The lack of transparency crea
 
 **Current status**: `open`
 **Last updated**: —
-**Community feedback**: [Submit feedback](REPLACE_WITH_GOOGLE_FORM_URL)
+**Community feedback**: [Submit feedback](https://docs.google.com/forms/d/e/1FAIpQLScrp_rzg7bhIJdpnF74Te7dnxWacTYk8plZI045A96DvILNgQ/viewform)
 
 ## USAB Response
 
