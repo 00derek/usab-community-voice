@@ -57,7 +57,7 @@ For players with international competitive experience, BWF ranking points repres
 
 **Current status**: `open`
 **Last updated**: —
-**Discussion**: [Community Google Doc](https://docs.google.com/document/d/1M5L5hzmFEwOOWBIPppjBtdk4iO41uRgOm6LlFETHjBQ/edit)
+**Community feedback**: [Submit feedback](REPLACE_WITH_GOOGLE_FORM_URL)
 
 ## USAB Response
 

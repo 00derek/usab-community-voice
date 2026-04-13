@@ -43,7 +43,7 @@ Critical information (rule changes, schedule updates, policy decisions) frequent
 
 **Current status**: `open`
 **Last updated**: —
-**Discussion**: [Community Google Doc](https://docs.google.com/document/d/1VmD8uvijvvdS3PJpQ0bfeq2961UWO9NQk_aJlfoHjGQ/edit)
+**Community feedback**: [Submit feedback](REPLACE_WITH_GOOGLE_FORM_URL)
 
 ## USAB Response
 

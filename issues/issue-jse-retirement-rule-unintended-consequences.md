@@ -43,7 +43,7 @@ Beyond the specific rule, this incident highlights a governance concern: a polic
 
 **Current status**: `open`
 **Last updated**: —
-**Discussion**: [Community Google Doc](https://docs.google.com/document/d/1RhP9-uoNEG8rzLTal3jTrrCceRfeW4i2woxMp0PBMKA/edit)
+**Community feedback**: [Submit feedback](REPLACE_WITH_GOOGLE_FORM_URL)
 
 ## USAB Response
 

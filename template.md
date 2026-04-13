@@ -31,7 +31,7 @@ Questions that need answers before this issue can be fully evaluated or resolved
 
 **Current status**: `open`
 **Last updated**: —
-**Discussion**: [Community Google Doc](REPLACE_WITH_GOOGLE_DOC_URL)
+**Community feedback**: [Submit feedback](REPLACE_WITH_GOOGLE_FORM_URL)
 
 ## USAB Response
 

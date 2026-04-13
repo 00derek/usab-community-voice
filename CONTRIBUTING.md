@@ -25,9 +25,9 @@ Thank you for helping document and improve issues that matter to the badminton c
 - **Answering open questions**: If you know the answer to one of the Open Questions, update the issue or note it in your PR description so the question can be refined or removed.
 - **Correcting inaccuracies**: If something is factually wrong, please correct it and note the change in your PR.
 
-### Starting a discussion without a full write-up
+### Submitting feedback without a full write-up
 
-Open a GitHub Discussion or Issue if you have a concern but aren't ready to write a full issue document. Others can help shape it into a proper entry.
+Use the feedback form linked in any issue's Status section if you have thoughts but aren't ready to write a full issue document. Maintainers review submissions and can help shape recurring themes into a proper entry.
 
 ## Writing Guidelines
 
@@ -46,4 +46,4 @@ issues/issue-orc-venue-accessibility.md
 
 ## Questions
 
-Open a GitHub Discussion if you're unsure whether something belongs here or how to frame it. We'll figure it out together.
+Open a GitHub Issue if you're unsure whether something belongs here or how to frame it. We'll figure it out together.

@@ -44,7 +44,7 @@ Beyond player welfare, there are organizational risks: without a documented medi
 
 **Current status**: `open`
 **Last updated**: —
-**Discussion**: [Community Google Doc](https://docs.google.com/document/d/122yIEOSSQB-3sKceMZzbMPWggJuflg4fYLezL4ELL_s/edit)
+**Community feedback**: [Submit feedback](REPLACE_WITH_GOOGLE_FORM_URL)
 
 ## USAB Response
 
