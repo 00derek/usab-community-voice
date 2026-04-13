@@ -1,19 +1,19 @@
 ## Issue
-The 2026 retirement penalty rule — where withdrawing from one event triggers consequences in other events — was introduced at Adult Nationals and carried into JSE with unintended consequences: rather than retiring, players played deliberately passive and subpar consolation matches, wasting court time, match officials, and opponent effort. The rule is producing the opposite of its intended effect and raises broader questions about how USAB policy is developed and reviewed.
+The retirement penalty rule — introduced in late 2025 and enforced at the 2025 Adult Nationals before being applied to the 2026 JSE — has created unintended consequences. Instead of encouraging straightforward retirements when players no longer intend to compete seriously in consolation rounds, the rule may incentivize low-engagement matches that consume court time and reduce competitive value, raising broader questions about how USAB policies are introduced, reviewed, and extended across event types.
 
 **Tags**: `governance` `policy` `junior` `player-welfare` `high-performance` `tournament-rules` `JSE`
 
 ## Context
-The retirement penalty rule was introduced in 2025, reportedly approved by the High Performance Committee, with the presumed intent of discouraging strategic or non-committal withdrawals — ensuring players who enter events follow through competitively.
+The retirement penalty rule appears to have been introduced in late 2025, approved through the High Performance Committee process, with the apparent intent of discouraging strategic or non-committal withdrawals and encouraging players who enter events to compete through their scheduled matches.
 
-At JSE, the rule had a measurable backfire effect: players who did not wish to continue competing in consolation rounds did not retire (as they would have under the old system), but instead showed up and played passively to avoid triggering the penalty. The result:
-- Consolation matches became non-competitive, offering no meaningful experience to opponents
-- Court slots, officials, and scheduling resources were consumed by matches with no real contest
-- The spirit of competition was undermined more severely than a straightforward retirement would have been
+At JSE, community feedback suggests the rule may have had a backfire effect: players who did not wish to continue competing in consolation rounds may have been less likely to retire formally and more likely to appear for matches with limited competitive intent in order to avoid the penalty. If that pattern is accurate, several consequences follow:
+- Consolation matches may provide limited developmental value to opponents
+- Court slots, officials, and scheduling resources are still consumed without producing a strong competitive result
+- Tournament administrators are left managing behavior that is harder to evaluate consistently than a straightforward retirement
 
-This is a textbook case of a policy achieving the opposite of its intent when participants find a lower-cost workaround. A player intentionally playing below their level is harder to detect and penalize than a formal retirement — and does more damage to tournament quality.
+This creates a policy-design problem: if the cost of formal retirement is higher than the cost of low-engagement participation, the rule may shift behavior without improving tournament quality. Intentional underperformance is also harder to define and enforce consistently than a formal retirement.
 
-Beyond the specific rule, this incident highlights a governance concern: a policy with significant impact on player behavior was approved by a single committee without apparent broader stakeholder input, and was applied to junior players at a high-stakes selection event without a pilot or impact review.
+Beyond the specific rule, this raises a governance question: a policy with significant impact on player behavior appears to have been extended into a high-stakes junior selection setting without a broadly visible pilot, impact review, or multi-stakeholder feedback process.
 
 ## Potential Options
 
@@ -21,7 +21,7 @@ Beyond the specific rule, this incident highlights a governance concern: a polic
 
 - **Option A — Suspend the rule at JSE and junior events pending a formal review**: Immediately limit application of the retirement penalty to adult events where it originated, and establish a review timeline before any reapplication. Prevents further harm while the policy is assessed.
 
-- **Option B — Define and enforce "non-competitive play" as a separate violation**: If the goal is ensuring genuine competition, address passive play directly through referee authority to issue conduct violations or walkovers for non-competitive behavior. This is harder to enforce but targets the actual problem revealed at JSE.
+- **Option B — Define and enforce "non-competitive play" as a separate violation**: If the goal is ensuring genuine competition, address passive play directly through referee authority to issue conduct violations or walkovers for clearly non-competitive behavior. This is harder to enforce consistently, but it targets the behavior the rule may be producing.
 
 - **Option C — Require multi-stakeholder review before implementing or extending the rule further**: Regardless of the rule's final form, establish a policy review process — involving players, coaches, club representatives, and tournament directors — before applying it to new event types. The current approval path (single committee, no pilot) is insufficient for rules with broad behavioral impact.
 
@@ -31,7 +31,7 @@ Beyond the specific rule, this incident highlights a governance concern: a polic
 
 - What was the High Performance Committee's stated intent when approving this rule? Was it to reduce strategic retirement, ensure competitive commitment, or address a specific observed behavior?
 - Was the rule piloted at Adult Nationals and assessed before being extended to JSE? If so, what outcomes were reviewed?
-- How many consolation matches at JSE 2025 were identified as non-competitive or passive? Is there data to quantify the impact?
+- How many consolation matches at the 2026 JSE were identified as non-competitive or passive? Is there data to quantify the impact?
 - Which stakeholders — players, coaches, clubs, tournament directors — were consulted before the rule was approved and extended?
 - Does USAB have a formal policy review or sunset process for new rules? If not, should one be created?
 - How do other national badminton federations (e.g., Badminton Canada, USA Pickleball, BWF member associations) handle retirement policies at selection events?

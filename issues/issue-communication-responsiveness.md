@@ -4,7 +4,7 @@ USAB has no reliable, accountable channel for responding to parent, club, and st
 **Tags**: `communication` `responsiveness` `governance` `community` `operations`
 
 ## Context
-Unresponsiveness is one of the fastest ways to erode community trust. When a parent emails a question about rankings, a rule change, or an event and receives no reply, the message received is not "we're busy" — it is "your concern does not matter." Repeated experiences of this kind cause community members to disengage, stop raising issues, and lose confidence in the organization.
+Unresponsiveness is one of the fastest ways to erode community trust. When a parent emails a question about rankings, a rule change, or an event and receives no reply, the practical effect is that the person has no signal that the concern was received, routed, or being addressed. Repeated experiences of this kind can cause community members to disengage, stop raising issues, and lose confidence in the organization.
 
 Two distinct but related problems exist:
 

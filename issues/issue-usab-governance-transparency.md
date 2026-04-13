@@ -10,7 +10,7 @@ Several recent and recurring examples illustrate the pattern:
 
 - **Election and reelection process**: How board members are elected or reelected is not clearly communicated. Many community members — including active club leaders and parents — are unaware of when elections occur, who is eligible to vote, how candidates are nominated, or how to participate. Low awareness suppresses participation and concentrates governance in a small group.
 
-Taken together, these gaps create a governance environment where decisions appear to come from a black box. Even well-reasoned decisions lose legitimacy when the community has no window into how they were made. The issues filed in this repo — on venue selection, medical staffing, ranking delays, and retirement rules — share a common root: policies and decisions made without structured community input or transparent communication.
+Taken together, these gaps create a governance environment where major decisions can appear opaque to the broader community. Even well-reasoned decisions lose legitimacy when stakeholders have little visibility into how they were made. The issues filed in this repo — on venue selection, medical staffing, ranking delays, and retirement rules — share a common root: policies and decisions made without structured community input or transparent communication.
 
 ## Potential Options
 
