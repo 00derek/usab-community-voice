@@ -43,7 +43,7 @@ Beyond the specific rule, this raises a governance question: a policy with signi
 
 **Current status**: `open`
 **Last updated**: —
-**Discussion**: [Community Google Doc](https://docs.google.com/document/d/1RhP9-uoNEG8rzLTal3jTrrCceRfeW4i2woxMp0PBMKA/edit)
+**Community feedback**: [Submit feedback](https://docs.google.com/forms/d/e/1FAIpQLScrp_rzg7bhIJdpnF74Te7dnxWacTYk8plZI045A96DvILNgQ/viewform)
 
 ## USAB Response
 

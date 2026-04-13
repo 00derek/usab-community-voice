@@ -42,7 +42,7 @@ Taken together, these gaps create a governance environment where major decisions
 
 **Current status**: `open`
 **Last updated**: —
-**Discussion**: [Community Google Doc](https://docs.google.com/document/d/1_ZCHLGkfbJITl-aJPUz15d2GSCSVqCf48aCwNTmmkE4/edit)
+**Community feedback**: [Submit feedback](https://docs.google.com/forms/d/e/1FAIpQLScrp_rzg7bhIJdpnF74Te7dnxWacTYk8plZI045A96DvILNgQ/viewform)
 
 ## USAB Response
 

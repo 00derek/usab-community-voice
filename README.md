@@ -8,13 +8,12 @@ Issues are organized into three areas: **Governance & Transparency**, **Player W
 
 ## Community Collaboration
 
-This project uses a three-layer system to enable participation at all levels:
+This project uses a two-layer system:
 
 - **GitHub** (this repo) — the canonical, version-controlled record of each issue
-- **Google Docs** — one discussion document per issue, open for community comments and suggestions ([link in each issue's Status section](issues/))
-- **Google Sheets** — [USAB Issue Tracker](https://docs.google.com/spreadsheets/d/1f2a9qJVAnRLE8tNgZjKkiEpkLD18s8DB4TRb_ODhuQ8/edit) — USAB's dashboard for tracking status, ownership, and responses across all issues
+- **Google Form** — the easiest way for community members to submit feedback on any issue
 
-To leave feedback on a specific issue, open the issue file and click the **Community Google Doc** link in the Status section.
+To leave feedback on a specific issue, open the issue file and click the **Submit feedback** link in the Status section. You do not need a GitHub account. Submissions are reviewed by maintainers, grouped by theme, and incorporated into the issue write-up periodically.
 
 ---
 

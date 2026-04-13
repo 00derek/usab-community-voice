@@ -44,7 +44,7 @@ The junior community has raised this concern repeatedly. Continued non-delivery 
 
 **Current status**: `open`
 **Last updated**: —
-**Discussion**: [Community Google Doc](https://docs.google.com/document/d/1dDFTYISZ9frPezJcjC7-ltnvAjgCo34JHcsptNeZqkE/edit)
+**Community feedback**: [Submit feedback](https://docs.google.com/forms/d/e/1FAIpQLScrp_rzg7bhIJdpnF74Te7dnxWacTYk8plZI045A96DvILNgQ/viewform)
 
 ## USAB Response
 

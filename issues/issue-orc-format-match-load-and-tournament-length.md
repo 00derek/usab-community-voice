@@ -46,7 +46,7 @@ This issue requires structured input from multiple stakeholder groups — player
 
 **Current status**: `open`
 **Last updated**: —
-**Discussion**: [Community Google Doc](https://docs.google.com/document/d/1Q9dbMKVDW04IIXvKZJ3dwQBaly9FL_HKpGPR2anD4Pc/edit)
+**Community feedback**: [Submit feedback](https://docs.google.com/forms/d/e/1FAIpQLScrp_rzg7bhIJdpnF74Te7dnxWacTYk8plZI045A96DvILNgQ/viewform)
 
 ## USAB Response
 
