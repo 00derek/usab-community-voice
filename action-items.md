@@ -20,4 +20,7 @@
 | 11 | Explore financial implications of renting large club facilities vs convention centers for JN | [Financial Sustainability](issues/issue-financial-sustainability-membership-hosting-officiating.md) | High | Hard | Justin Rogers / Mary | TBD | pending |
 | 12 | On-site medical/physio standards — not yet discussed | [On-Site Medical / Physio](issues/issue-on-site-medical-physio-standards.md) | High | Medium | — | — | pending |
 | 13 | ORC format and match load — not yet discussed | [ORC Format & Match Load](issues/issue-orc-format-match-load-and-tournament-length.md) | High | Hard | — | — | pending |
-| 14 | USAB website improvements — not yet discussed | [USAB Website](issues/issue-usab-official-website.md) | Low-Med | Easy | — | — | pending |
+| 14 | Improve website with historical records (teams, results) and clearer public documentation | [USAB Website](issues/issue-usab-official-website.md) | Low-Med | Easy | Justin Rogers / USAB | TBD | in progress |
+| 15 | Determine stakeholders for junior development follow-up (parents, volunteers, athletes) and set meeting date | [JSE Selection Event Format](issues/issue-junior-selection-event-format.md) | High | Medium | Justin Rogers | TBD | pending |
+| 16 | Continue Club Locker evaluation and explore alternative membership systems | [Financial Sustainability](issues/issue-financial-sustainability-membership-hosting-officiating.md) | Medium | Medium | USA Badminton | TBD | pending |
+| 17 | Make engineering resources and technical examples available to USAB and vendors as needed | [Junior Ranking Update Delays](issues/issue-junior-ranking-update-delays.md) | Medium | Easy | Community | Ongoing | pending |
