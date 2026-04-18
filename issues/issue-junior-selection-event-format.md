@@ -46,3 +46,7 @@ Any format change also creates tradeoffs. Reintroducing a field cap with round-r
 ## USAB Response
 
 *No response yet. USAB is reviewing community input.*
+
+## Action Items
+
+→ [View in action items tracker](../action-items.md)

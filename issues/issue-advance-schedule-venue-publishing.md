@@ -48,3 +48,7 @@ Comparable youth sports organizations (USAV volleyball, USTA junior tennis, US Y
 ## USAB Response
 
 *No response yet. USAB is reviewing community input.*
+
+## Action Items
+
+→ [View in action items tracker](../action-items.md)

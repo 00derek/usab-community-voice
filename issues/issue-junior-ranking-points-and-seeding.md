@@ -53,3 +53,7 @@ These issues do not necessarily mean the system is fundamentally unsound. They d
 ## USAB Response
 
 *No response yet. USAB is reviewing community input.*
+
+## Action Items
+
+→ [View in action items tracker](../action-items.md)

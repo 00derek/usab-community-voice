@@ -51,3 +51,7 @@ This issue requires structured input from multiple stakeholder groups — player
 ## USAB Response
 
 *No response yet. USAB is reviewing community input.*
+
+## Action Items
+
+→ [View in action items tracker](../action-items.md)
