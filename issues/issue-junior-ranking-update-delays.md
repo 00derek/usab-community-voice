@@ -49,3 +49,7 @@ The junior community has raised this concern repeatedly. Continued non-delivery 
 ## USAB Response
 
 *No response yet. USAB is reviewing community input.*
+
+## Action Items
+
+→ [View in action items tracker](../action-items.md)

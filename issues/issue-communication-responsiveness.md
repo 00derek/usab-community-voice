@@ -48,3 +48,7 @@ Critical information (rule changes, schedule updates, policy decisions) frequent
 ## USAB Response
 
 *No response yet. USAB is reviewing community input.*
+
+## Action Items
+
+→ [View in action items tracker](../action-items.md)

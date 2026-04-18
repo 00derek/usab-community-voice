@@ -36,3 +36,9 @@ Questions that need answers before this issue can be fully evaluated or resolved
 ## USAB Response
 
 *No response yet. USAB is reviewing community input.*
+
+## Action Items
+
+| Action | Owner | Target Date | Status |
+|---|---|---|---|
+| | | | |

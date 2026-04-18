@@ -55,3 +55,7 @@ Comparable national sports federations generate meaningful revenue through corpo
 ## USAB Response
 
 *No response yet. USAB is reviewing community input.*
+
+## Action Items
+
+→ [View in action items tracker](../action-items.md)

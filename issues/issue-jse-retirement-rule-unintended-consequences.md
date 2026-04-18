@@ -48,3 +48,7 @@ Beyond the specific rule, this raises a governance question: a policy with signi
 ## USAB Response
 
 *No response yet. USAB is reviewing community input.*
+
+## Action Items
+
+→ [View in action items tracker](../action-items.md)

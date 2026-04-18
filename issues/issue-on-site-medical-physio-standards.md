@@ -49,3 +49,7 @@ Beyond player welfare, there are organizational risks: without a documented medi
 ## USAB Response
 
 *No response yet. USAB is reviewing community input.*
+
+## Action Items
+
+→ [View in action items tracker](../action-items.md)

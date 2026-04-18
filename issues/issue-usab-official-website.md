@@ -27,3 +27,17 @@ These gaps affect junior players and their families most directly, but also redu
 - Does USAB have historical records of Pan Am Junior qualifiers readily available, or would this require community-sourced data?
 - Is there a technical or staffing constraint preventing new pages from being added to the current website, or is this primarily a prioritization gap?
 - Could these pages be maintained collaboratively (e.g., community volunteers updating rosters) to reduce the burden on USAB staff?
+
+## Status
+
+**Current status**: `open`
+**Last updated**: —
+**Community feedback**: [Submit feedback](https://docs.google.com/forms/d/e/1FAIpQLScrp_rzg7bhIJdpnF74Te7dnxWacTYk8plZI045A96DvILNgQ/viewform)
+
+## USAB Response
+
+*No response yet. USAB is reviewing community input.*
+
+## Action Items
+
+→ [View in action items tracker](../action-items.md)
