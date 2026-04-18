@@ -30,24 +30,32 @@ Critical information (rule changes, schedule updates, policy decisions) frequent
 
 ## Open Questions
 
-- What communication channels currently exist for parents and clubs to reach USAB, and which are actively monitored?
-- Is there a designated staff member or volunteer responsible for community-facing communication? If so, what is their capacity?
-- What is the current average response time to email inquiries, and is this tracked anywhere?
+- ✓ **Addressed (Apr 18):** *What communication channels exist and are actively monitored?* — Contact form/email inbox now routed to Justin Rogers; triaged daily.
+- ✓ **Addressed (Apr 18):** *Is there a designated staff member for community-facing communication?* — Justin Rogers. Capacity: daily morning triage block.
+- ✓ **Addressed (Apr 18):** *What is the current average response time?* — Commitment to 24–48 hour acknowledgment; Justin aiming for 24 hours personally.
 - Which topics generate the highest volume of repeated inquiries — and are these already documented internally?
 - How is information currently disseminated (email lists, website announcements, social media)? Are these channels consistently updated?
 - Are there USAB members or clubs who have escalated the responsiveness issue formally, and how was it handled?
-- What is the minimum viable intervention — is a dedicated email alias with an auto-acknowledgment and a committed response SLA achievable in the short term while larger structural changes are planned?
+- What is the minimum viable intervention — is a dedicated email alias with an auto-acknowledgment achievable in the short term?
 
 
 ## Status
 
 **Current status**: `open`
-**Last updated**: —
+**Last updated**: 2026-04-18
 **Community feedback**: [Submit feedback](https://docs.google.com/forms/d/e/1FAIpQLScrp_rzg7bhIJdpnF74Te7dnxWacTYk8plZI045A96DvILNgQ/viewform)
 
 ## USAB Response
 
-*No response yet. USAB is reviewing community input.*
+### Apr 18, 2026 — Community Feedback Meeting
+
+Justin Rogers confirmed he inherited the community contact inbox and now triages it each morning, routing unanswered questions to relevant staff. The group agreed to an operational commitment of acknowledging all community emails within 24–48 hours. An FAQ for tournament directors is under development; a newsletter was noted as a good idea needing more internal planning.
+
+- Justin Rogers is the designated point of contact for community inquiries, triaging daily and assigning to staff
+- Acknowledgment SLA: within 24 hours (Justin); within 48 hours (assigned staff)
+- FAQ for tournament directors in development; selection process FAQ also planned
+- Newsletter concept endorsed but not yet scoped — needs voice, frequency, and ownership decisions
+- Decision log / FAQ on website is aligned with Justin's own priorities
 
 ## Action Items
 

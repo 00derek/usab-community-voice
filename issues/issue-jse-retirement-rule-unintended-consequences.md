@@ -42,12 +42,18 @@ Beyond the specific rule, this raises a governance question: a policy with signi
 ## Status
 
 **Current status**: `open`
-**Last updated**: —
+**Last updated**: 2026-04-18
 **Community feedback**: [Submit feedback](https://docs.google.com/forms/d/e/1FAIpQLScrp_rzg7bhIJdpnF74Te7dnxWacTYk8plZI045A96DvILNgQ/viewform)
 
 ## USAB Response
 
-*No response yet. USAB is reviewing community input.*
+### Apr 18, 2026 — Community Feedback Meeting
+
+Justin Rogers tabled the retirement rule discussion for this meeting and committed to bringing Derek's community feedback document directly to the High Performance Committee (HPC) within 1–2 weeks (by approximately May 2, 2026). Justin noted that the HPC was the body that originally contributed to the junior selection procedures containing this rule.
+
+- Justin Rogers will present Derek's document and community feedback on the retirement rule to the HPC by ~May 2, 2026
+- HPC has authority over junior selection procedures, including this rule
+- No immediate USAB position stated; awaiting HPC review
 
 ## Action Items
 
