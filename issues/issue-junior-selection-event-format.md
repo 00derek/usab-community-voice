@@ -31,21 +31,32 @@ Any format change also creates tradeoffs. Reintroducing a field cap with round-r
 ## Open Questions
 
 - How often have early draw pairings at JSE produced outcomes that the community widely viewed as unrepresentative of overall player strength?
-- Are selection events currently seeded strictly by domestic ranking, and has USAB reviewed whether that seeding method adequately protects against distorted early-round pairings?
-- What would a round-robin phase at JSE require in terms of court count, scheduling days, venue size, and officiating support relative to the current format?
+- ✓ **Addressed (Apr 18):** *Are selection events seeded strictly by domestic ranking?* — World rankings are not currently incorporated; players with intl rankings but no domestic ranking hold no seeding protection. Raised as a gap.
+- What would a round-robin phase at JSE require in terms of court count, scheduling days, venue size, and officiating support?
 - If a field cap is adopted, what qualification mechanism would the community consider fair: ranking cutoff, regional quota, qualification event, or another model?
 - Would a regional pre-qualification system improve fairness and access, or would differences in regional competitive depth create a new problem?
-- Which body within USAB has authority to change the selection event format, and what approval process would be required?
+- ✓ **Addressed (Apr 18):** *Which body has authority to change the format?* — HPC has authority over junior selection procedures; Justin Rogers will route feedback there.
 
 ## Status
 
 **Current status**: `open`
-**Last updated**: —
+**Last updated**: 2026-04-18
 **Community feedback**: [Submit feedback](https://docs.google.com/forms/d/e/1FAIpQLScrp_rzg7bhIJdpnF74Te7dnxWacTYk8plZI045A96DvILNgQ/viewform)
 
 ## USAB Response
 
-*No response yet. USAB is reviewing community input.*
+### Apr 18, 2026 — Community Feedback Meeting
+
+John stated the primary purpose of junior selection is to develop athletes who can compete internationally and succeed at Olympic and Pan Am Games; rewarding junior effort is secondary. Justin committed to bringing the selection format discussion to the HPC within 1–2 weeks. Community raised the issue of world rankings not being used for seeding — players with meaningful international rankings but limited domestic participation receive no seeding protection. Cora noted JAG and HPC have had no formal interaction in recent years; Justin sees value in reconnecting them. Michelle proposed forming a goal-driven representative committee (parents, volunteers, athlete perspectives) to holistically revisit junior structure.
+
+- Primary purpose of selection (per John): produce juniors capable of competing internationally and at Olympic/Pan Am level
+- Secondary purpose: reward junior effort
+- Justin Rogers will bring format discussion to HPC alongside the retirement rule (~May 2, 2026)
+- World rankings (junior and adult) raised as an input that should be considered for seeding, given players competing internationally but holding no domestic rank
+- Specific case raised: player ranked #3 in world junior ranking denied exemption when Pan Am individuals conflicted with selection event
+- JAG historically consulted HPC ~8 years ago; no formal interaction since; Justin sees value in restoring this link
+- Representative committee proposed to set goal-driven objectives for grassroots vs. elite pathways — separate, multi-stakeholder process needed
+- HPC includes 4 Olympians with direct expertise; concern raised about potential coaching conflicts of interest alongside generational perspective gap
 
 ## Action Items
 

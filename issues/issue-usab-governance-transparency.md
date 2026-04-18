@@ -41,12 +41,19 @@ Taken together, these gaps create a governance environment where major decisions
 ## Status
 
 **Current status**: `open`
-**Last updated**: —
+**Last updated**: 2026-04-18
 **Community feedback**: [Submit feedback](https://docs.google.com/forms/d/e/1FAIpQLScrp_rzg7bhIJdpnF74Te7dnxWacTYk8plZI045A96DvILNgQ/viewform)
 
 ## USAB Response
 
-*No response yet. USAB is reviewing community input.*
+### Apr 18, 2026 — Community Feedback Meeting
+
+This meeting itself represents a first step toward the governance transparency the community has asked for. John expressed strong support for monthly meetings, stating they would help bring the community behind USAB efforts. The group agreed to hold regular monthly meetings (approximately one hour); next meeting tentatively scheduled for May 16, 2026. Scheduling flexibility (weekday evenings possible) was agreed upon. Justin Rogers will schedule and host the follow-up.
+
+- Monthly community–USAB feedback meetings agreed; next on May 16, 2026
+- John: expressed strong support for monthly meetings if they build community alignment
+- Meeting format: ~1 hour, flexible on weekday vs. weekend
+- This recurring forum is the first structural step toward Option A (regular town halls) in this issue
 
 ## Action Items
 

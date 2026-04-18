@@ -47,12 +47,19 @@ These issues do not necessarily mean the system is fundamentally unsound. They d
 ## Status
 
 **Current status**: `open`
-**Last updated**: —
+**Last updated**: 2026-04-18
 **Community feedback**: [Submit feedback](https://docs.google.com/forms/d/e/1FAIpQLScrp_rzg7bhIJdpnF74Te7dnxWacTYk8plZI045A96DvILNgQ/viewform)
 
 ## USAB Response
 
-*No response yet. USAB is reviewing community input.*
+### Apr 18, 2026 — Community Feedback Meeting
+
+The ranking seeding discussion surfaced two specific concerns. First, the current system does not incorporate world junior or adult rankings for seeding at selection events — players who compete internationally but have limited domestic participation hold no seeding protection despite demonstrated competitive level. Second, Cora confirmed the playup rule (where a player has points in two age groups) is a known source of referee-level confusion about which ranking to apply. Both issues are acknowledged requirements for any new automation vendor. The seeding input question has been routed to the HPC via the selection format discussion.
+
+- World junior and adult rankings should be considered as seeding inputs for JSE — raised as community ask, not yet formally adopted
+- Playup rule handling: players with points in two age groups create ambiguity about which ranking applies for seeding; known issue for referees
+- Automation vendor requirement: must handle playup rule and duplicate user IDs
+- Seeding methodology review will follow from HPC selection format discussion
 
 ## Action Items
 

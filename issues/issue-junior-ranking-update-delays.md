@@ -30,25 +30,34 @@ The junior community has raised this concern repeatedly. Continued non-delivery 
 
 ## Open Questions
 
-- What is the current end-to-end process for updating junior rankings — from tournament result collection through validation to publication? Is it documented anywhere?
+- ✓ **Addressed (Apr 18):** *What is the current end-to-end process?* — Manual, multi-handoff: Justin Rogers + Ty + Mary. Starts last week of month. Documented informally but not publicly.
+- ✓ **Addressed (Apr 18):** *Who owns the ranking update process?* — Justin Rogers (process owner), working with Ty and Mary.
+- ✓ **Addressed (Apr 18):** *Is there a known automation timeline?* — Two vendors under evaluation; 4–6 months expected; goal of post-tournament automation by summer 2026.
+- ✓ **Addressed (Apr 18):** *Are there known technical barriers?* — Playup rule handling and duplicate user IDs (one player had 3 accounts) are the main complications.
 - Where do delays most commonly occur — data collection, calculation, approval, or publication?
-- Is the process manual, partially automated, or fully manual? What tools or systems are currently used?
-- Who owns the ranking update process today, and what is their available capacity relative to the monthly commitment?
-- How are tournament results from sanctioned events submitted and ingested — is there a standard format or does it vary by tournament?
-- Has USAB internally documented an SLA or accountability mechanism for the monthly commitment? If so, what has been the response when it is missed?
-- Are there known technical or access barriers preventing automation of result ingestion?
-- How many formal complaints or community inquiries about ranking delays has USAB received, and what responses were given?
+- How are tournament results from sanctioned events submitted and ingested — standard format or varies?
+- Has USAB internally documented an SLA or accountability mechanism for the monthly commitment?
+- How many formal complaints or community inquiries about ranking delays has USAB received?
 
 
 ## Status
 
 **Current status**: `open`
-**Last updated**: —
+**Last updated**: 2026-04-18
 **Community feedback**: [Submit feedback](https://docs.google.com/forms/d/e/1FAIpQLScrp_rzg7bhIJdpnF74Te7dnxWacTYk8plZI045A96DvILNgQ/viewform)
 
 ## USAB Response
 
-*No response yet. USAB is reviewing community input.*
+### Apr 18, 2026 — Community Feedback Meeting
+
+Justin Rogers described the current process as manual and multi-handoff, inherited from Trenton's departure. The team now starts the monthly run during the last week of each month to hit a first-of-month target. One delay occurred in February 2026 when a tournament overlapped the month boundary. John stated a goal of full automation by summer 2026, with two vendors under evaluation; expected implementation timeline is 4–6 months. Community members (including two independent developers) have already built ranking scrapers from public TournamentSoftware data and offered technical consultation.
+
+- Rankings are updated monthly; process starts last week of each month to hit first-of-month target
+- February 2026 was delayed due to a tournament overlapping the month start; most recent months on schedule
+- Two vendors being evaluated; one vendor quoted ~6 months, John expects to finalize choice after upcoming Europe trip
+- Target: automated ranking update after every tournament, not just monthly
+- Known critical requirements for vendor: playup rule handling, deduplication of players with multiple accounts
+- Community engineers have built working ranking scrapers from public data and are available for technical consultation (not as primary vendors)
 
 ## Action Items
 

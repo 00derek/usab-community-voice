@@ -42,12 +42,20 @@ Comparable youth sports organizations (USAV volleyball, USTA junior tennis, US Y
 ## Status
 
 **Current status**: `open`
-**Last updated**: —
+**Last updated**: 2026-04-18
 **Community feedback**: [Submit feedback](https://docs.google.com/forms/d/e/1FAIpQLScrp_rzg7bhIJdpnF74Te7dnxWacTYk8plZI045A96DvILNgQ/viewform)
 
 ## USAB Response
 
-*No response yet. USAB is reviewing community input.*
+### Apr 18, 2026 — Community Feedback Meeting
+
+The group agreed that publishing event schedules approximately one year in advance is the right target. John noted USAB is already evaluating 2027 and 2028 JN locations. Justin acknowledged JSE date consistency (Easter weekend) helps with date prediction but venue announcement is still the bottleneck. Justin committed to following up with staff on a concrete timeline within 30 days (by May 18, 2026).
+
+- Agreed target: publish JN and JSE dates and venues approximately one year in advance
+- JSE date is typically Easter weekend (fixed in advance); venue announcement lags
+- JN requires convention and visitors bureau (CVB) partnerships — larger venue process than club bids
+- 2027 and 2028 JN ideas already under consideration
+- Justin Rogers will follow up with staff and provide a concrete schedule publication timeline within 30 days
 
 ## Action Items
 

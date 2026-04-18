@@ -26,24 +26,32 @@ This has been a long-standing community grievance. The lack of transparency crea
 
 ## Open Questions
 
-- What criteria, if any, are currently used internally to evaluate JSE and Junior Nationals venue bids?
+- ✓ **Addressed (Apr 18):** *What criteria are currently used internally?* — Geographic rotation, cost, facility capacity. Northeast rotation was primary driver for 2026 Boston.
+- ✓ **Addressed (Apr 18):** *Are criteria the same for JSE and Junior Nationals?* — No. JSE uses club bids; JN uses convention and visitors bureau bids due to scale requirements.
+- ✓ **Addressed (Apr 18):** *How far in advance are venues selected?* — USAB is already evaluating 2027/2028 JN options. JSE venue announcement still lags.
 - Who holds decision-making authority — a committee, a single officer, or a board vote?
-- Are the criteria for JSE selection the same as those used for Junior Nationals, or are they treated as separate processes?
-- Have any clubs or regional associations been consulted in past selection cycles? If so, how formally?
-- Is there a written bid submission format, or are bids submitted informally?
-- How far in advance are venues selected, and when are decisions communicated to the community?
+- Is there a written bid submission format published anywhere?
 - Has the governing body received formal complaints or requests about this issue, and how were they addressed?
 
 
 ## Status
 
 **Current status**: `open`
-**Last updated**: —
+**Last updated**: 2026-04-18
 **Community feedback**: [Submit feedback](https://docs.google.com/forms/d/e/1FAIpQLScrp_rzg7bhIJdpnF74Te7dnxWacTYk8plZI045A96DvILNgQ/viewform)
 
 ## USAB Response
 
-*No response yet. USAB is reviewing community input.*
+### Apr 18, 2026 — Community Feedback Meeting
+
+John explained that the 2026 JSE Boston selection was driven by geographic diversity — Northeast had not hosted since 2018 (Yvonne's Club / Boston Badminton, when it was still called JIT). Geographic rotation has been an explicit, long-standing JAG and organizational priority. Cora confirmed a formal bid process has existed for approximately 5 years; limited past interest led to Frisco hosting three consecutive years. Justin acknowledged the community's reasonable expectation to know which clubs submitted bids, not just who won, and committed to publishing the host selection process.
+
+- Formal bid process has been in place for ~5 years for both JSE and JN
+- Geographic rotation across regions is an explicit, long-standing priority — not arbitrary
+- Northeast last hosted in 2018; that historical gap was a primary factor in 2026 Boston selection
+- JN uses a different process: bids from convention and visitors bureaus, not individual clubs, due to scale
+- Community ask: publish which clubs submitted bids (not just the winner) for future selection cycles
+- Justin Rogers committed to documenting and publishing the JN host selection process
 
 ## Action Items
 
