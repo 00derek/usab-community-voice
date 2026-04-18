@@ -65,6 +65,16 @@ The financial model underpinning USAB-sanctioned badminton is under strain acros
 
 ---
 
+## Community Meetings
+
+Meeting summaries capture discussions, decisions, and action items from community calls with USAB.
+
+| Date | Summary |
+|------|---------|
+| April 18, 2026 | [Community Feedback Meeting](meetings/community-meeting-summary-apr18.md) — Communication SLAs, rankings automation, event scheduling, JN hosting, and HPC review items |
+
+---
+
 ## Contributing
 
 These issues are living documents. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add a new issue, improve an existing one, or start a discussion.
