@@ -109,11 +109,11 @@ New staff support has been added. Focus areas include:
 ## Action Items
 
 ### Derek Chang
-- [ ] Circulate updated notes and action tracker to the community
+- [x] Circulate updated notes and action tracker to the community
 
 ### Justin Rogers
-- [ ] Share meeting notes after the call
-- [ ] Send community document link to John Ruger
+- [x] Share meeting notes after the call
+- [x] Send community document link to John Ruger
 - [ ] Triage contact inbox daily; assign items to staff as needed
 - [ ] Acknowledge community emails within 24 hours; respond within 48 hours
 - [ ] Develop and publish FAQs for tournament directors and selection processes
