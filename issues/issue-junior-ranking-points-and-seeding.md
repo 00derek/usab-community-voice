@@ -44,10 +44,30 @@ These issues do not necessarily mean the system is fundamentally unsound. They d
 - Are rankings intended primarily to reward seasonal participation, estimate player strength, determine event access, or do all three? If all three, should a single points system be carrying all of those functions?
 - Which body within USAB has authority to revise ranking and seeding methodology, and what evidence would it need to justify a change?
 
+## Community Proposal — May 1, 2026
+
+A community-drafted design proposal addresses this issue jointly with the related ORC format issue (`issue-orc-format-match-load-and-tournament-length.md`). Key recommendations on the ranking side:
+
+- **Bump OLC weighting** from 15% to 20% of JN. Compresses the tier gap that drives must-attend pressure on ORC. Respects the constraint that 2 OLC golds should not outweigh 1 ORC gold (at 20%, 2 OLC = 80% of 1 ORC).
+- **Drop CRC tier** from ranking calculation. In practice OLC and CRC have similar local-mostly fields; the distinction has not produced meaningfully different competitive outcomes. Hosts can convert CRC events to OLC or run them as non-ranking developmental events.
+- **Keep ORC at 50% of JN**. The "must attend" pressure is addressed via format change (capping + B-flight at the related ORC format issue), not by lowering the headline weight.
+- **Counting model unchanged.** Best-4 sum is retained as-is. The proposal does not introduce a participation bonus or any other change to how points are aggregated. A counting-model adjustment was considered and deferred — it can be revisited as a follow-on if the structural changes prove insufficient.
+- **Edge cases (BWF, playing-up) deferred to a separate workstream.** A-flight entry under the companion format proposal is purely top 64 by national ranking. The proposal authors considered a wildcard / committee-discretion mechanism for handling players whose level exceeds their domestic ranking and decided against it: it would add governance complexity (public criteria framework, appeals path, ongoing committee workload, politicization risk) without clearly outperforming a more principled approach. These cases are recognized as real and are scoped to a future proposal — see Open Questions.
+
+How each item from the original Context section is addressed:
+
+| Concern | Proposal addresses by |
+|---|---|
+| 1. Best-4 overweights peaks | **Partially addressed.** Tier-weight compression (OLC 15→20%) reduces the marginal value of any single high-tier result; B-flight introduction gives players who are locked-in on best-4 a reason to keep competing because B-flight at later events offers meaningful points. The counting model itself is unchanged. |
+| 2. Tier differentials amplify access effects | OLC bump (15→20%) compresses the gap; B-flight introduction (covered in companion issue) gives traveled players a second-bracket alternative at the same weight as OLC. |
+| 3. Edge cases unhandled (BWF, playing-up) | **Not addressed; deferred to a separate workstream.** Acknowledged as a real gap in the Phase 1 proposal. A future proposal needs to define how BWF tour ranking points should be incorporated as a seeding input and how cross-age-group ranking should combine with same-age ranking for playing-up players. Until that work happens, edge-case players whose domestic ranking is outside the top 64 will land in B-flight at crunch events. |
+
+Full design including point tables, worked examples, and rollout plan is at [`orc-and-ranking-reform/usab-junior-orc-and-ranking-reform.md`](./orc-and-ranking-reform/usab-junior-orc-and-ranking-reform.md).
+
 ## Status
 
-**Current status**: `open`
-**Last updated**: 2026-04-18
+**Current status**: `community-proposal-drafted`
+**Last updated**: 2026-05-01
 **Community feedback**: [Submit feedback](https://docs.google.com/forms/d/e/1FAIpQLScrp_rzg7bhIJdpnF74Te7dnxWacTYk8plZI045A96DvILNgQ/viewform)
 
 ## USAB Response

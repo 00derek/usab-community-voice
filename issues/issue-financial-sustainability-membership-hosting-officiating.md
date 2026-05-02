@@ -44,6 +44,7 @@ Comparable national sports federations generate meaningful revenue through corpo
 - Is the 30% revenue cut rate uniform across all event types and sizes, or does it vary? When was it last reviewed?
 - What is the total annual membership fee burden on a family with two junior players, including all required certifications and event fees?
 - Is there a USAB staff role or committee currently responsible for sponsorship and revenue development? If not, who would own this?
+- Could OLC-specific cut relief amplify the ORC reform's intended redistribution? The companion [ORC and ranking reform proposal](./orc-and-ranking-reform/usab-junior-orc-and-ranking-reform.md) raises the question of whether USAB should drop or reduce the 30% revenue cut on OLC events specifically — given that the reform bumps OLC weight (15% → 20% of JN) and is expected to redirect participation from saturated ORCs to locally-run OLCs. Without host-side relief, the reform improves OLC's attractiveness to *players* but leaves host economics unchanged, and the supply of OLC events may not grow to absorb the redirected demand. See §10 Open Question 9 in that proposal.
 
 
 ## Status
