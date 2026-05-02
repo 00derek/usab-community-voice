@@ -42,10 +42,35 @@ This issue requires structured input from multiple stakeholder groups — player
 - Could a phased approach work — e.g., points rebalancing first to reduce demand organically, followed by format review once new participation levels are observed?
 
 
+## Community Proposal — May 1, 2026
+
+A community-drafted design proposal addresses this issue jointly with the related ranking-points issue (`issue-junior-ranking-points-and-seeding.md`). Key recommendations on the format side:
+
+- **Cap A-flight at R64 for the five crunch events** — Boys' Singles U13/U15/U17 and Mixed Doubles U13/U15. These are the events that historically exceed 64 entries and force R128 brackets into 3-day weekends. Other events stay unchanged.
+- **A-flight entry is purely top 64 by national ranking.** No reserved spots, no committee-discretion lane.
+- **Run a parallel B-flight** — also R64, for registrants who don't make A-flight by national ranking. Same venue, same Saturday-Monday weekend, hard registration cap of 128 per event. B-flight uses reduced officiating standard (roving umpire / self-reporting) and pays 30% of A-flight at every position.
+- **No fourth day required.** All A-flight and B-flight play happens Saturday-Monday. Friday is not used for on-court activity. A Friday qualifier was considered and rejected as a de facto 4th-day extension that conflicts with the school/work absence and host-cost concerns originally raised.
+- **Edge cases (BWF-experienced, playing-up) are not addressed in this proposal.** A wildcard mechanism was considered and rejected because it would add governance complexity (public criteria, appeals path, ongoing committee workload, politicization risk) without clearly outperforming a more principled approach. Players whose actual level exceeds their domestic ranking — typically because of BWF international experience or because they are competing up an age group — will land in B-flight if their domestic ranking is outside the top 64. This is acknowledged as a real gap and is deferred to a separate workstream rather than solved here.
+- **Ranking weights compress modestly** (covered in companion issue): OLC 15% → 20%, CRC dropped from ranking calculation, ORC stays at 50%. This relieves must-attend pressure on ORC by making OLC more rewarding for players who can't crack A-flight at ORC anyway.
+
+How each Context concern is addressed:
+
+| Concern | Proposal addresses by |
+|---|---|
+| Ranking point incentives drive overcrowding | OLC bumped to 20%; B-flight (= 15% of JN) gives traveled players an OLC-equivalent path; OLC becomes rationally attractive to players unlikely to make A-flight |
+| Capping creates fairness problem | B-flight ensures all registrants get a real tournament with meaningful points (B-flight gold equals an A-flight R16 finisher; B-flight beats an A-flight first-round loss). The cap is a clean ranking line — top 64 by national ranking — with no committee-discretion lane that could be politicized. The honest cost is that BWF-experienced and playing-up players whose domestic ranking is outside the top 64 land in B-flight; that residual gap is acknowledged and deferred to a separate workstream. |
+| 4-day cost is unacceptable | Format stays Saturday-Monday; no 4th day required |
+
+**Operational impact.** Total matches at the venue are essentially unchanged (128 each at saturation, including 3rd/4th place playoffs). Per-day venue match counts are essentially the same. Two finals on Monday instead of one. Two brackets to publish. The player-welfare improvement comes from one fewer round per player (6 vs 7), which eliminates the forced 3-rounds-in-one-day compression that today's R128/3-day format imposes on deep-run multi-event players.
+
+**Phased rollout proposed.** Pilot the format with one crunch event in one region before expanding nationally.
+
+Full design including point tables, worked examples, match-count comparisons, and risk/mitigation analysis is at [`orc-and-ranking-reform/usab-junior-orc-and-ranking-reform.md`](./orc-and-ranking-reform/usab-junior-orc-and-ranking-reform.md).
+
 ## Status
 
-**Current status**: `open`
-**Last updated**: —
+**Current status**: `community-proposal-drafted`
+**Last updated**: 2026-05-01
 **Community feedback**: [Submit feedback](https://docs.google.com/forms/d/e/1FAIpQLScrp_rzg7bhIJdpnF74Te7dnxWacTYk8plZI045A96DvILNgQ/viewform)
 
 ## USAB Response
